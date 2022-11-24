@@ -1,0 +1,162 @@
+body{
+margin: 0%;
+overflow-x: hidden  ;
+}
+.bg1{
+    background-color: rgba(0, 0, 0, 0.752);
+    padding: 20px;
+    margin: 0%;
+    overflow: hidden;
+   
+
+}
+li{
+    display: block;
+    list-style-type: none;
+    text-align: center ;
+    font-weight: bold ;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+li a{
+    margin-right: 25px;
+    color: white;
+    padding: 0px 16px;
+    text-decoration: none;
+    float: right;
+      
+}
+.center{
+    margin: 0%;
+    background-color: rgba(26, 162, 126, 0.866);
+    height: 500px;
+    text-align: center;
+}
+
+.center1{
+    width: 300px;
+    height: 200px;
+   margin-top: 50px;
+ 
+}
+
+.t1{
+    color: white;
+    font-size: 30px;
+    font-weight:bold;
+    font-family:  Verdana, Tahoma, sans-serif;
+   
+}
+
+.t2{
+    color: white;
+    margin-top: 40px;
+}
+
+.p1{
+    color: white;
+    margin-left: -140px;
+    margin-top: -46px;
+}
+
+.p2{
+    color: white;
+    margin-top: -64.5px;
+    margin-left: 95px;
+    margin-right: -40px;
+}
+
+.imgalign{
+    text-align: center;
+}
+
+i{
+    color: white;
+    margin-top: 80 px;
+}
+
+.a1{
+    width: 338px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.align{
+    display: inline-block;
+    padding: 2px;
+}
+
+.left1{
+    margin-left: -38px;
+    margin-top: 50px;
+    font-size: 30px ;
+    font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+#star{
+    color: white;
+    margin-top: 80 px;
+    margin-left: -38px;
+  
+}
+
+.p11{
+    margin-left: -185px;
+    margin-top: -50px;
+
+}
+
+.p22{
+    margin-top: -66.5px;
+    margin-left: 95px;
+    margin-right: -12px;
+}
+
+.bg2{
+    background-color:rgba(26, 162, 126, 0.866);
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.abo{
+    font-size: 20px;
+    padding-top: 40px;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+#sec1{
+ text-align: justify;
+ color: white;
+ width: 300px;
+ margin-left: 450px;    
+}
+
+#sec2{
+ text-align: justify;
+ color: white;
+ width: 300px;
+ margin-left: 768px; 
+ margin-top: -108px;    
+
+}
+
+#down{
+    width: 150px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    padding: 8px;
+    background-color: rgba(26, 162, 126, 0.866);
+    border-color: white;
+   
+}
+
+#col1{
+    color: white;
+}
+
+
